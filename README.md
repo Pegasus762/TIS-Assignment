@@ -7,5 +7,8 @@ Hi, below are my reflections on my assignments on Technology and Information Sys
 # Reflection on Design Thinking Assignment
 - My goal is to gain experience in real-world applications. Work-based learning projects allows me to apply my knowledge in real-world situations. Besides, I hope to increase my networking opportunities through this program. I will build a strong foundation by mastering the basics of programming skills. Besides, I will focus on the quality of my assignments and work-based learning projects to have a well-built portfolio.
 # Reflection on PC Assembly
+- I learn to identify and understand various hardware components such as the motherboard, central processing unit (CPU), graphics card, RAM, HDDs/SSDs, power supply unit , and cooling systems.
+- Learning how to physically assemble different components of a computer helps me understand the internal structure and organization of a PC.
+- Besides, this PC assembly session evokes my appreciation for technology. It lets me realise the value of components by physically handling and assembling components, you gain a deeper appreciation for the technology that makes modern computing possible.
 
 
